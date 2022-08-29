@@ -1,7 +1,7 @@
 # Analizator-Lexical-
 Analizator Lexical 
 
-Analizator Lexical 
+Analizator Lexical /n
 Program de test:
 
 function max(x:int, y:int):int

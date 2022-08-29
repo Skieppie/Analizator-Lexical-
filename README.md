@@ -2,7 +2,11 @@
 Analizator Lexical 
 ----------------
 \
-Program de test:\
+The draw.io diagram can be used to visualise the lexical attoms.\
+\
+\
+\
+Test code:\
 \
 function max(x:int, y:int):int\
     if(x<y)\
